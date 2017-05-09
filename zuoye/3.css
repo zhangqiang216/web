@@ -1,0 +1,35 @@
+<style type="text/css">
+		body{
+			font-size: 12px;
+			font-family: Arial;
+			color: gray;
+			line-height: 2em;
+		}
+		a{
+			color: #727272;
+			text-decoration: none;
+		}
+		a:hover{
+			text-decoration: underline;
+		}
+		.a{
+			font-size: 14px;
+			color: #b9f605;
+			font-weight: blod;
+
+
+		}
+		
+		}
+		td a:hover{
+			color: #b9f605;
+			text-decoration: none;
+		}
+		.special{
+			color: #fdb306;
+		}
+		.c{
+			color: white;
+		}
+
+	</style>

@@ -1,0 +1,52 @@
+<style type="text/css">
+	*{
+	padding: 0px;
+	margin: 0px;
+}
+	#titlediv{
+		background-image: url(images/left_nav_title.gif);
+	width: 183px;
+	height: 35px;
+	color: white;
+	text-align: center;
+	padding-top: 12px;
+	}
+		
+		
+		ul{
+			list-style-type:none;
+	
+	list-style-image: url(images/left_cur.gif); 
+	background-image: url(images/left_nav_txt.gif);
+	width: 183px;
+	background-repeat: no-repeat;
+	text-align: left;
+							  
+
+	}
+	 ul li{
+		width: 183px;
+	margin-left: 40px;
+	height: 30px;
+	padding-top: 5px;
+	background-image: url(image/left_nav_item.gif);
+	background-repeat: no-repeat;
+	background-position: -3em 90%;
+	text-align: left;
+	}
+	a:link{
+		color: black;
+	}
+	a:hover{
+		color: red;
+	}
+	
+
+		#footerdiv{
+			background-image: url(images/left_nav_bottom.gif);width: 183px;
+	height: 35px;
+	
+	
+
+		}
+	</style>

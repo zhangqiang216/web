@@ -1,0 +1,25 @@
+<style type="text/css">
+	*{
+	padding: 0px;
+		margin: 0px;}
+	.menu{
+		background-image: url(images/bg.gif);
+		width: 1300px;
+		height: 30px;
+		text-align: center;
+	}
+	ul li{
+			float: left;
+			list-style-type:none;
+		}
+		a{
+			color: white;
+			text-decoration: none;
+		}
+		.specil{
+			color: yellow;
+		}
+		.a{
+			color: green;
+		}
+	</style>
