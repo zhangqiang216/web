@@ -1,0 +1,56 @@
+<style type="text/css">
+body{
+	background-image: url(images/bodybg.gif);
+	background-repeat: repeat-x;
+	margin: 0 auto;
+
+}
+
+
+}
+*{
+	font-size: 12px;
+	color: #522a06;
+	padding: 0px;
+	font-family: 宋体；
+
+}
+img{
+	border: 0px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+a:link{
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+.header{
+	height: 205px;
+	
+
+	
+}
+.banner{
+	width: 1000px;
+	height: 164px;
+	align-content: center;
+	background-image: url(images/bg.gif);
+	background-repeat: repeat-x;
+
+}
+.banner img{
+
+
+}
+	
+</style>
